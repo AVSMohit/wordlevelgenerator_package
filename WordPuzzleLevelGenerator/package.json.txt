@@ -1,0 +1,13 @@
+{
+  "name": "com.DefaultCompany.wordpuzzlelevelgenerator",
+  "version": "0.1.0",
+  "displayName": "Word Puzzle Level Generator",
+  "description": "A tool to generate levels for word-based puzzle games.",
+  "unity": "2021.2",  // Minimum Unity version compatible with this package
+  "author": {
+    "name": "Mohit",
+    "email": "avsmohit210@gmail.com",
+  },
+  "keywords": ["unity", "puzzle", "level", "generator"],
+  "dependencies": {}
+}
